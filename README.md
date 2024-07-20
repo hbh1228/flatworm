@@ -53,7 +53,7 @@ go build src/main/keygen.go
 ##### Launch the code
 
 + Modify the configuration file  "etc/conf.json" to choose which protocol to execute, and modify the IP addresses 
-and port numbers of all servers. Details about the protocols are included in "$etc/node.txt$". The “id” of each server should be unique. 
+and port numbers of all servers. Details about the protocols are included in "etc/node.txt". The “id” of each server should be unique. 
 By default, we use monotonically increasing ids, 0, 1, 2, ....
 
 
