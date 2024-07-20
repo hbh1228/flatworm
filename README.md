@@ -4,7 +4,7 @@ Asynchronous fault-tolerant protocols for the following paper:
 
 Baohan Huang, Haibin Zhang, Sisi Duan, Boxin Zhao, and Liehuang Zhu. "Practical Asynchronous BFT from Local Coins"
 
-This repository implements one BFT protocols:
+This repository implements one BFT protocol:
 
 + FlatWorm
 
